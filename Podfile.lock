@@ -1,0 +1,21 @@
+PODS:
+  - Masonry (1.1.0)
+  - SDAutoLayout (2.2.1)
+
+DEPENDENCIES:
+  - Masonry
+  - SDAutoLayout
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SDAutoLayout
+  trunk:
+    - Masonry
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDAutoLayout: 8bf6b3bbc8b01f775d4defbb4fda2ace805461be
+
+PODFILE CHECKSUM: 48d9dae44167d86f81159027b5e658155e0d108a
+
+COCOAPODS: 1.9.1
